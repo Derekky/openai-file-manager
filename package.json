@@ -1,0 +1,16 @@
+{
+  "name": "openai-file-manager",
+  "version": "1.0.0",
+  "description": "Um projeto para gerenciar a OpenAI de uma maneira simples e eficiente.",
+  "author": "Derek Silva",
+  "type": "module",
+  "main": "interface.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "openai": "^4.92.0"
+  }
+}
