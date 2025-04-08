@@ -30,6 +30,9 @@ Thumbs.db
 .idea/
 *.sublime-workspace
 
+# Python cache files
+__pycache__/
+
 # Temporary files
 *.tmp
 *.swp
