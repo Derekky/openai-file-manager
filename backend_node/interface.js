@@ -4,9 +4,9 @@ import { listFiles } from './listFiles.js';
 const printOptions = () => {
     console.log("Options:");
     console.log("1. List files");
-    console.log("2. Upload a file");
-    console.log("3. Delete a file");
-    console.log("4. Download a file");
+    console.log("2. List Vector Stores");
+    console.log("3. List files in a Vector Store");
+    console.log("4. List assistants");
     console.log("5. Exit");
 }
 

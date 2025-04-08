@@ -4,7 +4,7 @@
   "description": "Um projeto para gerenciar a OpenAI de uma maneira simples e eficiente.",
   "author": "Derek Silva",
   "type": "module",
-  "main": "interface.js",
+  "main": "backend_node/interface.js",
   "scripts": {
     "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
